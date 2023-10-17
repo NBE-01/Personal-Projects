@@ -1,0 +1,8 @@
+CALCULATOR by: Neil Burman
+
+How To Run:
+-Any Java IDE (Preferably Eclipse) 
+-Run using the Client Class "CalculatorClient.java"
+-Enter your number in infix form with accompanying spaces between every number and operator
+	-Example: "5 * 25 / 5 + 5 - 5"
+-Program will then display the postfix form as well as the answer as a double 
